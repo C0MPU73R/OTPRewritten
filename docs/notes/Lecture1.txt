@@ -1,0 +1,5 @@
+OTP (Online Theme Park) basic components:
+Message Director:
+Client Agent:
+State server:
+Database-state server:
